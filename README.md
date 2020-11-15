@@ -46,6 +46,8 @@ You can create user (default laravel user model)
     [GET]
     http://localhost:8080/api/users
 
+![](http://recaicansiz.com/photos/grafana/5.png)
+
 ### Usage
 
 You can open Grafana with this link.
@@ -54,6 +56,8 @@ You can open Grafana with this link.
 
 You should add your data source (mysql).
 
+![](http://recaicansiz.com/photos/grafana/2.png)
+
 You can create new panel in your dashboard like as photo.
 
-![](http://recaicansiz.com/photos/swagger/1.png)
+![](http://recaicansiz.com/photos/grafana/1.png)
